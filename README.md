@@ -4,7 +4,7 @@
 
 This repository contains the OpenCart  Trust Payments payment module that enables the shop to process payments with [Trust Payments](https://www.trustpayments.com/).
 
-##### To use this extension, a [Trust Payments](https://www.trustpayments.com/) account is required.
+##### To use this extension, a [Trust Payments](https://ep.trustpayments.com/user/signup) account is required.
 
 ## Requirements
 
@@ -13,7 +13,7 @@ This repository contains the OpenCart  Trust Payments payment module that enable
 
 ## Documentation
 
-* [English](https://plugin-documentation.ep.trustpayments.com/TrustPayments/opencart-3.0/1.0.44/docs/en/documentation.html)
+* [English](https://plugin-documentation.ep.trustpayments.com/TrustPayments/opencart-3.0/1.0.46/docs/en/documentation.html)
 
 ## Support
 
@@ -21,4 +21,4 @@ Support queries can be issued on the [Trust Payments support site](https://www.t
 
 ## License
 
-Please see the [license file](https://github.com/TrustPayments/opencart-3.0/blob/1.0.44/LICENSE) for more information.
+Please see the [license file](https://github.com/TrustPayments/opencart-3.0/blob/1.0.46/LICENSE) for more information.
